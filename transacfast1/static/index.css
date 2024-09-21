@@ -1,0 +1,76 @@
+html, body {
+  font-family: 'Poppins', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.navbar {
+  padding: 0.8rem;
+  background-color: #ffffff;
+}
+  
+.logo {
+  margin-top: 0.1rem;
+  margin-bottom: 0;
+  font-size: 15px;
+  font-family: 'Ma Shan Zheng', cursive;
+  /*color: #9498EE;*/
+}
+
+.navbar-nav li {
+  padding: 20px;
+}
+  
+.nav-link {
+  font-size: 20px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.form-control::placeholder {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-style: italic;
+}
+
+/***************************************************************************/
+.content-section {
+  background: #ffffff;
+  padding: 5px 20px;
+  border: 2px solid rgb(107, 210, 228);
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+}
+
+.account-img {
+/*  height: auto;
+  width: 200px;*/
+
+  height: 125px;
+  width: auto;
+
+/*  height: 125px;
+  width: 125px;*/
+  margin-bottom: 16px;
+}
+
+/***************************************************************************/
+.card-body{
+  display: flex;
+  flex-direction: column;
+}
+.card-mydefine{
+  margin-top: auto;
+}
+
+/***************************************************************************/
+.comment_content{
+  /*white-space: pre-line;*/
+  white-space: pre;
+}
+
