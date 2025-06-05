@@ -9,7 +9,7 @@ This is an e-commerce app built with **PHP**, which offers a comprehensive platf
 
 ## 🛠️ Tech Stack
 
-PHP, JavaScript, Bootstrap, HTML, and CSS
+**PHP, JavaScript, Bootstrap, and MySQL (phpMyAdmin)**
 
 ## 🚀 Features
 
